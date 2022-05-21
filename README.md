@@ -9,5 +9,5 @@ Repository for all code shared on website (https://www.alexanastasiou.me/)
 - Reliability
 - Validity (Coming Soon)
 
-## Performance Testing
+## Data Viz
 - Training Session Traces
