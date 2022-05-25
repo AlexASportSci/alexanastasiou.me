@@ -8,3 +8,6 @@ Repository for all code shared on website (https://www.alexanastasiou.me/)
 ## Performance Testing
 - Reliability
 - Validity (Coming Soon)
+
+## Data Viz
+- Training Session Traces
